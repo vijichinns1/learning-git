@@ -1,3 +1,7 @@
 this is file1
 
+<<<<<<< HEAD
 hello i have changed
+=======
+changed in remote 
+>>>>>>> 7eee32c7cb3ead81d1e0f38c99a1634009329982
